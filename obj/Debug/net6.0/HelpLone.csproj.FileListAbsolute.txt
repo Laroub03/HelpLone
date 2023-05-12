@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\HelpLone.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\HelpLone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\HelpLone.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\HelpLone.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\HelpLone.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\bin\Debug\net6.0\HelpLone.exe
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\bin\Debug\net6.0\HelpLone.deps.json
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\bin\Debug\net6.0\HelpLone.runtimeconfig.json
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\bin\Debug\net6.0\HelpLone.dll
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\bin\Debug\net6.0\HelpLone.pdb
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\HelpLone.dll
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\refint\HelpLone.dll
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\HelpLone.pdb
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\HelpLone.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\HelpLone\HelpLone\obj\Debug\net6.0\ref\HelpLone.dll
